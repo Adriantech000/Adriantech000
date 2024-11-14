@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Adriantech000
-- 👀 I’m interested in phyton, .net, backend.
-- 🌱 I’m currently learning c, python, php.
+- 👀 I’m interested in c#, dot.net, backend.
+- 🌱 I’m currently learning c,c#, php.
