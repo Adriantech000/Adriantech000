@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Adriantech000
-- 👀 I’m interested in c#, dot.net, backend.
-- 🌱 I’m currently learning c,c#, php.
+- 👋 Hi, I’m Adrian
+- 👀 I’m interested in java, javascript, front-end
+- 🌱 I’m currently learning java, php, front-end
