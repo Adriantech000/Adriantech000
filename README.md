@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Adrian
-- 👀 I’m interested in java, javascript, front-end
-- 🌱 I’m currently learning java, php, front-end
+- 🌱 I’m currently learning java, php, node.
